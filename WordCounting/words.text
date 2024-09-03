@@ -1,0 +1,23 @@
+Design and code a program that reads a text file and counts the number of times each word it contains appears. For example, if the file contained the first line of this paragraph ("Design and code a program that reads a text file, and counts the number of times each word it contains appears 100"), the program's output might look something like this:
+
+design 1
+and 2
+code 1
+a 2
+program 1
+that 2
+reads 1
+text 1
+file 1
+counts 1
+the 1
+number 1
+of 1
+times 1
+each 1
+word 1
+it 1
+contains 1
+appears 1
+
+Notice that the number "100" should not appear in the output, thus, implies a need to determine if a string is numeric or not.
